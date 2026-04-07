@@ -1,0 +1,13 @@
+=== Savings Account ===
+[Savings] Deposited $200
+Account: SAV-001 | Balance: $1200
+[Savings] Withdrew $600
+Account: SAV-001 | Balance: $600
+[Savings] Withdrawal denied. Minimum balance of $500 must be maintained.
+
+=== Current Account ===
+[Current] Deposited $300
+Account: CUR-001 | Balance: $800
+[Current] Withdrawal denied. Overdraft limit of $1000 exceeded.
+[Current] Withdrew $1200
+Account: CUR-001 | Balance: $-400
