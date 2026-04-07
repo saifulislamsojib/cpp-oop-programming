@@ -1,0 +1,12 @@
+# Compiled files
+*.o
+*.out
+*.exe
+
+# Directories
+bin/
+obj/
+dist/
+
+# OS files
+.DS_Store
